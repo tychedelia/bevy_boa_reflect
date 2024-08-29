@@ -1,0 +1,11 @@
+[package]
+name = "bevy_boa_reflect"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+boa_engine = "0.19"
+boa_gc = "0.19"
+boa_runtime = "0.19.0"
+bevy = "0.14"
+anyhow = "1"
